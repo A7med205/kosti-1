@@ -2,8 +2,8 @@ KOSTI-1 is a 5 DOF open-source robotic arm with a maximum payload of 500G, a rea
 
 The bill of material, assembly guide, .stl files, example-code and CAD files are all available for download.
 
-![](https://github.com/A7med205/kosti_1/blob/main/media/dr1.png)
-![](https://github.com/A7med205/kosti_1/blob/main/media/dr2.png)
+![](https://github.com/A7med205/kosti-1/blob/main/media/dr1.png)
+![](https://github.com/A7med205/kosti-1/blob/main/media/dr2.png)
 
 ## Things That Might Set This Arm Apart From Other Similar Ones:
 
@@ -20,16 +20,16 @@ The bill of material, assembly guide, .stl files, example-code and CAD files are
 
 
 ## Pick and Place
-![](https://github.com/A7med205/kosti_1/blob/main/media/pick.GIF)
+![](https://github.com/A7med205/kosti-1/blob/main/media/pick.GIF)
 
 ## Demo
-![](https://github.com/A7med205/kosti_1/blob/main/media/demo.GIF)
+![](https://github.com/A7med205/kosti-1/blob/main/media/demo.GIF)
 
 ## ROS + Moveit
-![](https://github.com/A7med205/kosti_1/blob/main/media/ROS.GIF)
+![](https://github.com/A7med205/kosti-1/blob/main/media/ROS.GIF)
 
 ## Assembly
-![](https://github.com/A7med205/kosti_1/blob/main/media/assembly.GIF)
+![](https://github.com/A7med205/kosti-1/blob/main/media/assembly.GIF)
 
 ## Exploded View
-![](https://github.com/A7med205/kosti_1/blob/main/media/explode.png)
+![](https://github.com/A7med205/kosti-1/blob/main/media/explode.png)
