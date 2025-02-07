@@ -2,6 +2,8 @@ KOSTI-1 is a 5 DOF open-source robotic arm with a maximum payload of 500G, a rea
 
 The bill of material, assembly guide, .stl files, example-code and CAD files are all available for download.
 
+![Thingiverse link](https://www.thingiverse.com/thing:6147832)
+
 ![](https://github.com/A7med205/kosti-1/blob/main/media/dr1.png)
 ![](https://github.com/A7med205/kosti-1/blob/main/media/dr2.png)
 
