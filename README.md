@@ -1,11 +1,13 @@
 KOSTI-1 is a 5 DOF open-source robotic arm with a maximum payload of 500G, a reach of approximately 55cm and a total part cost of around $700; the arm lies in the mid-range between small servo arms and multi thousand dollar projects and is generally aimed towards educational and hobby purposes, but you might be able to come up with some practical ones (e.g., simple pick and place tasks, remotely turning on your coffee machine).
 
-The bill of material, assembly guide, .stl files, example-code and CAD files are all available for download.
+The manual (includes bill of material and assembly guide), .stl files, example-code and CAD files are all available for download.
 
-![Thingiverse link](https://www.thingiverse.com/thing:6147832)
+*Note: The gripper displayed below is different from the updated one in the files.
 
-![](https://github.com/A7med205/kosti-1/blob/main/media/dr1.png)
-![](https://github.com/A7med205/kosti-1/blob/main/media/dr2.png)
+[Thingiverse link](https://www.thingiverse.com/thing:6147832)
+
+![](https://github.com/A7med205/kosti-1/blob/main/Media/dr1.PNG)
+![](https://github.com/A7med205/kosti-1/blob/main/Media/dr2.PNG)
 
 ## Things That Might Set This Arm Apart From Other Similar Ones:
 
@@ -22,16 +24,16 @@ The bill of material, assembly guide, .stl files, example-code and CAD files are
 
 
 ## Pick and Place
-![](https://github.com/A7med205/kosti-1/blob/main/media/pick.GIF)
+![](https://github.com/A7med205/kosti-1/blob/main/Media/pick.gif)
 
 ## Demo
-![](https://github.com/A7med205/kosti-1/blob/main/media/demo.GIF)
+![](https://github.com/A7med205/kosti-1/blob/main/Media/demo.gif)
 
 ## ROS + Moveit
-![](https://github.com/A7med205/kosti-1/blob/main/media/ROS.GIF)
+![](https://github.com/A7med205/kosti-1/blob/main/Media/ROS.gif)
 
 ## Assembly
-![](https://github.com/A7med205/kosti-1/blob/main/media/assembly.GIF)
+![](https://github.com/A7med205/kosti-1/blob/main/Media/assembly.gif)
 
 ## Exploded View
-![](https://github.com/A7med205/kosti-1/blob/main/media/explode.png)
+![](https://github.com/A7med205/kosti-1/blob/main/Media/explode.png)
