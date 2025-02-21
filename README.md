@@ -23,9 +23,6 @@ The manual (includes bill of material and assembly guide), .stl files, example-c
 3.	The arm uses open-loop stepper motors, and I haven’t added limit switches yet, meaning that the arm would need a pre known starting pose for every new run.
 
 
-## Pick and Place
-![](https://github.com/A7med205/kosti-1/blob/main/Media/pick.gif)
-
 ## Demo
 ![](https://github.com/A7med205/kosti-1/blob/main/Media/demo.gif)
 
